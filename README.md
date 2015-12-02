@@ -87,3 +87,5 @@ PS. While the names of the methods like .text() make sense when you read them, y
 
 ### References
 [W3 Schools jQuery Selectors](http://www.w3schools.com/jquery/jquery_ref_selectors.asp)
+
+<a href='https://learn.co/lessons/cssi-3-js-on-the-web-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
