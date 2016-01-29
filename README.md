@@ -88,4 +88,4 @@ PS. While the names of the methods like .text() make sense when you read them, y
 ### References
 [W3 Schools jQuery Selectors](http://www.w3schools.com/jquery/jquery_ref_selectors.asp)
 
-<a href='https://learn.co/lessons/cssi-3-js-on-the-web-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-3-js-on-the-web-walkthrough' title='Javascript on the Web'>Javascript on the Web</a> on Learn.co and start learning to code for free.</p>
